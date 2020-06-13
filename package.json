@@ -1,7 +1,7 @@
 {
-  "name": "layout-bmfont-text",
+  "name": "layout-bmfont-text--no-unsafe-eval",
   "version": "1.3.4",
-  "description": "word-wraps and lays out text glyphs",
+  "description": "word-wraps and lays out text glyphs - without unsafe eval",
   "main": "index.js",
   "license": "MIT",
   "author": {
